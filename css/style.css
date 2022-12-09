@@ -1,0 +1,97 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+html body{
+    font-family: 'Poppins', sans-serif;
+    background-color: pink;
+}
+
+
+/*********************
+
+        MAIN
+
+**********************/
+
+.main{
+    text-align: center;
+}
+
+.main img{
+    width: 220px;
+    margin-top: 20px;
+}
+
+
+.main  h1{
+    margin-bottom: 42px;
+}
+
+h3{
+    font-size: 24px;
+    text-align: center;
+    align-items: center;
+}
+
+
+/*********************
+
+       Links Button
+
+**********************/
+
+.links{
+    
+    text-align: center;
+}
+
+.links button{
+    
+    border: 1px solid black;
+    background-color: palevioletred;
+    border-radius: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: 15px;
+}
+
+.links button ul{
+    padding: 12px;
+}
+
+.links button ul li{
+    list-style: none;
+}
+
+.links button ul li a{
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    font-size: 24px;
+    color: white;
+    
+}
+
+
+.links button:hover{
+    background-color: rgb(119, 51, 74);
+}
+
+
+
+/*********************
+
+    Tabela de Preços
+
+**********************/
+
+
+
+
+
+
+
